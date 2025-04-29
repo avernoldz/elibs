@@ -1,0 +1,5 @@
+[2024-10-18 07:53:19] ERROR: Exception: Duplicate entry 'KING' for key 'username'
+[2024-10-18 07:55:59] ERROR: Exception: Duplicate entry 'JAYVEE' for key 'username'
+[2024-10-18 07:57:37] ERROR: Exception: Duplicate entry 'SYA' for key 'username'
+[2024-11-27 06:50:04] ERROR: Exception: Duplicate entry 'MONAY' for key 'username'
+[2024-11-27 06:52:05] ERROR: Exception: Duplicate entry 'MONAY' for key 'username'
